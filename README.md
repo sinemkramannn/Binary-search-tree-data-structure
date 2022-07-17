@@ -1,4 +1,4 @@
-# Binary-search-tree-yeri-yap-ları
+# Binary-search-tree data structure
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 root 7 dir.
 5, 7'in solunda bulur çünkü kendisinden küçüktür.
